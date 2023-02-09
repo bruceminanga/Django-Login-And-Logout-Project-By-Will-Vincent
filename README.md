@@ -1,4 +1,4 @@
-# Django SignUp Project By Will Vincent
+# Django Login and Logout Project By Will Vincent
 
 To create a sign up page we will need to make our own view and url. Let's begin!
 
@@ -15,5 +15,4 @@ To create a sign up page we will need to make our own view and url. Let's begin!
 I learned this Project from https://learndjango.com/tutorials/django-signup-tutorial
 
 
-# Django-Login-And-Logout-Project-By-Will-Vincent
-# Django-Login-And-Logout-Project-By-Will-Vincent
+
